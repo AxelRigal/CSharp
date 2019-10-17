@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace Exercice1
 {
@@ -9,7 +11,8 @@ namespace Exercice1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(12 + 5 * 12.5 - 1253.68);
-            Console.WriteLine("Moyenne de {1.0,5.5,9.9,2.8,9.6");
+            List<double> Moyenne = new List<double> { 1.0, 5.5, 9.9, 2.8, 9.6 };
+            Console.WriteLine("Moyenne de "+ Moyenne.Average());
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
@@ -37,6 +40,12 @@ namespace Exercice1
             chaine[3] = Class1.RetourneChaine(chaine[3]);
             chaine[4] = Class1.RetourneChaine(chaine[4]);
             Console.WriteLine(chaine);
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine(@"je t'aime");
+            Console.WriteLine(@"Le fichier à importer est : Z:\mspi\text.txt");
+            Console.ReadLine();
         }
     }
 }
