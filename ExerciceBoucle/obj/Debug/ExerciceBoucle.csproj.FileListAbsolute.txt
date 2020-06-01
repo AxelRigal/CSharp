@@ -1,0 +1,6 @@
+C:\Users\axelr\source\repos\CSharp\ExerciceBoucle\bin\Debug\ExerciceBoucle.exe.config
+C:\Users\axelr\source\repos\CSharp\ExerciceBoucle\bin\Debug\ExerciceBoucle.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceBoucle\bin\Debug\ExerciceBoucle.pdb
+C:\Users\axelr\source\repos\CSharp\ExerciceBoucle\obj\Debug\ExerciceBoucle.csproj.CoreCompileInputs.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceBoucle\obj\Debug\ExerciceBoucle.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceBoucle\obj\Debug\ExerciceBoucle.pdb

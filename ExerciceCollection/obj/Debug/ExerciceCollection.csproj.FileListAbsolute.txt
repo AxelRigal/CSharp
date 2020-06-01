@@ -1,0 +1,7 @@
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\bin\Debug\ExerciceCollection.exe.config
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\bin\Debug\ExerciceCollection.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\bin\Debug\ExerciceCollection.pdb
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\obj\Debug\ExerciceCollection.csprojAssemblyReference.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\obj\Debug\ExerciceCollection.csproj.CoreCompileInputs.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\obj\Debug\ExerciceCollection.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceCollection\obj\Debug\ExerciceCollection.pdb

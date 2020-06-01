@@ -12,7 +12,7 @@ namespace Exercice1
             Console.WriteLine("Hello World!");
             Console.WriteLine(12 + 5 * 12.5 - 1253.68);
             List<double> Moyenne = new List<double> { 1.0, 5.5, 9.9, 2.8, 9.6 };
-            Console.WriteLine("Moyenne de "+ Moyenne.Average());
+            Console.WriteLine("Moyenne de " + Moyenne.Average());
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
@@ -20,7 +20,7 @@ namespace Exercice1
             var rayon = Console.ReadLine();
             StringBuilder stringBuilderPerimetre = new StringBuilder();
             stringBuilderPerimetre.Append("Le périmetre du Cercle est: ");
-            double perimetre = (2 *  Convert.ToDouble(rayon)) * Math.PI ;
+            double perimetre = (2 * Convert.ToDouble(rayon)) * Math.PI;
             stringBuilderPerimetre.Append(perimetre);
             Console.WriteLine(stringBuilderPerimetre);
             StringBuilder stringbuilderSurface = new StringBuilder();

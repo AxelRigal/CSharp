@@ -1,0 +1,7 @@
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\bin\Debug\ExerciceDictionnaire.exe.config
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\bin\Debug\ExerciceDictionnaire.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\bin\Debug\ExerciceDictionnaire.pdb
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\obj\Debug\ExerciceDictionnaire.csprojAssemblyReference.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\obj\Debug\ExerciceDictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\obj\Debug\ExerciceDictionnaire.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceDictionnaire\obj\Debug\ExerciceDictionnaire.pdb

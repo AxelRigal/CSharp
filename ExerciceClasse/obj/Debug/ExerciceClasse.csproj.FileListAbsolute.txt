@@ -1,0 +1,7 @@
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\bin\Debug\ExerciceClasse.exe.config
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\bin\Debug\ExerciceClasse.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\bin\Debug\ExerciceClasse.pdb
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\obj\Debug\ExerciceClasse.csprojAssemblyReference.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\obj\Debug\ExerciceClasse.csproj.CoreCompileInputs.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\obj\Debug\ExerciceClasse.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceClasse\obj\Debug\ExerciceClasse.pdb

@@ -1,0 +1,6 @@
+C:\Users\axelr\source\repos\CSharp\ExerciceInitiale\bin\Debug\ExerciceInitiale.exe.config
+C:\Users\axelr\source\repos\CSharp\ExerciceInitiale\bin\Debug\ExerciceInitiale.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceInitiale\bin\Debug\ExerciceInitiale.pdb
+C:\Users\axelr\source\repos\CSharp\ExerciceInitiale\obj\Debug\ExerciceInitiale.csproj.CoreCompileInputs.cache
+C:\Users\axelr\source\repos\CSharp\ExerciceInitiale\obj\Debug\ExerciceInitiale.exe
+C:\Users\axelr\source\repos\CSharp\ExerciceInitiale\obj\Debug\ExerciceInitiale.pdb
